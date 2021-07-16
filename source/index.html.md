@@ -16,9 +16,7 @@ includes:
   - rest
   - json
   - protobuf
-  - protobuf_order_entry
   - binary
-  - reject_code
 
 search: true
 
